@@ -1,6 +1,8 @@
 winner-picker
 =====================
 
+**NOT FINISHED**
+
 Using React.js and Flux to build a "simple" winner-picker
 for a raffle at Codeaholics.
 
