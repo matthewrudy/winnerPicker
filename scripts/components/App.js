@@ -1,8 +1,8 @@
 'use strict';
 
 var React = require('react'),
-    ContestantList = require('./contestant-list'),
-    ContestantForm = require('./contestant-form');
+    ContestantList = require('./ContestantList'),
+    ContestantForm = require('./ContestantForm');
 
 var App = React.createClass({
       render() {

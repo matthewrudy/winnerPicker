@@ -1,8 +1,8 @@
 'use strict';
 
 var React = require('react'),
-    Contestant = require('./contestant'),
-    ContestantStore = require('./stores/ContestantStore');
+    Contestant = require('./Contestant'),
+    ContestantStore = require('../stores/ContestantStore');
 
 function getContestantState() {
   return {

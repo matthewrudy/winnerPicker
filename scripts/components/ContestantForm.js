@@ -1,7 +1,7 @@
 'use strict';
 
 var React = require('react'),
-    ContestantActions = require('./actions/ContestantActions');
+    ContestantActions = require('../actions/ContestantActions');
 
 var ContestantForm = React.createClass({
 
