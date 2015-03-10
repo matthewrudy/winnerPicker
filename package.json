@@ -1,0 +1,35 @@
+{
+  "name": "winner-picker",
+  "version": "0.0.1",
+  "description": "Pick a random winner",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewrudy/winner-picker.git"
+  },
+  "keywords": [
+    "react",
+    "winner",
+    "lottery",
+    "raffle"
+  ],
+  "author": "Matthew Rudy Jacobs <matthewrudyjacobs@gmail.com> (https://github.com/matthewrudy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewrudy/winner-picker/issues"
+  },
+  "homepage": "https://github.com/matthewrudy/winner-picker",
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "react-hot-loader": "^1.1.1",
+    "webpack": "^1.7.0",
+    "webpack-dev-server": "1.6.4"
+  },
+  "dependencies": {
+    "events": "^1.0.2",
+    "flux": "^2.0.1",
+    "react": "^0.12.0"
+  }
+}
